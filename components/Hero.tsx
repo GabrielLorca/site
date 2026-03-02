@@ -30,16 +30,6 @@ const Hero = () => {
               />
             </a>
           </Link>
-          <Link href="https://www.instagram.com/fraktal.io/">
-            <a>
-              <Image
-                src="/Instagram/Original.svg"
-                width={37}
-                height={37}
-                alt=""
-              />
-            </a>
-          </Link>
           <Link href="https://discord.com/invite/P6fCPvtZtq">
             <a>
               <Image
