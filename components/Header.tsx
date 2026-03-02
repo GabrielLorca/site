@@ -42,16 +42,6 @@ const Header = () => {
             <Image src="/Twitter/Original.svg" width={25} height={25} alt="" />
           </a>
         </Link>
-        <Link href="https://www.instagram.com/fraktal.io/">
-          <a>
-            <Image
-              src="/Instagram/Original.svg"
-              width={25}
-              height={25}
-              alt=""
-            />
-          </a>
-        </Link>
         <Link href="https://discord.com/invite/P6fCPvtZtq">
           <a>
             <Image src="/Discord/Original.svg" width={25} height={25} alt="" />
